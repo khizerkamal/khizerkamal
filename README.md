@@ -18,9 +18,6 @@ A passionate self-taught full stack developer
 <a href="https://www.facebook.com/khizer.shaikh.16/"><img src="https://img.shields.io/badge/-@khizerkamal-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=khizerkamal&show_icons=true&theme=tokyonight" >     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khizerkamal&layout=compact" >
-
-
 <i>💻 Tech Stack</i></h2>
 
 <table width="100">
