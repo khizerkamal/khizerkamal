@@ -21,7 +21,7 @@ A passionate self-taught full stack developer
 <img src="https://github-readme-stats.vercel.app/api?username=khizerkamal&show_icons=true&theme=tokyonight" >     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khizerkamal&layout=compact" >
 
 
-h2><i>💻 Tech Stack</i></h2>
+<i>💻 Tech Stack</i></h2>
 
 <table width="100">
 <tr>
