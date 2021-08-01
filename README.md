@@ -9,4 +9,5 @@ A passionate self-taught full stack developer
 - 💼 any freelance work? do reach, email :)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=khizerkamal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+<img src="https://github-readme-stats.vercel.app/api?username=khizerkamal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=ffba2c" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khizerkamal&layout=compact" >
