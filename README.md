@@ -21,19 +21,19 @@ A passionate self-taught full stack developer
 
 <table width="100">
 <tr>
-    <td align='center'>
+    <td align='center'width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
-    <td align='center'>
+    <td align='center' width="190">
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
     </td>
-     <td align='center'>
+     <td align='center' width="190">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
     </td>
-    <td align='center'>
+    <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
-    <td align='center'>
+    <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg">
     </td>
 </tr>
