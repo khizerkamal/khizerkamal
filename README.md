@@ -16,7 +16,8 @@ A passionate self-taught full stack developer
 <!-- <a href="https://instagram.com/saadhaxxan"><img src="https://img.shields.io/badge/-@saadhaxxan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
 <a href="https://www.facebook.com/khizer.shaikh.16/"><img src="https://img.shields.io/badge/-@khizerkamal-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
-
+    
+    
 <i>💻 Tech Stack</i></h2>
 
 <table width="100">
