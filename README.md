@@ -3,7 +3,7 @@ A passionate self-taught full stack developer
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 - 🔭 I’m currently working as a MERN Stack Developer.
 - 👯 I’m looking to collaborate with other developers
-- ⚡ 2021 Goals: To Build my Portfolio Projects.
+- ⚡ 2022 Goals: Blockchain and Web3.
 - 💬 ask me about anything, i am happy to help
 - 💼 any freelance work? do reach, email :)
 
