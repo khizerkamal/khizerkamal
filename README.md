@@ -1,6 +1,6 @@
-### Hi, I'm Khizer Kamal <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+### Hi, I'm Khizer Kamal <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="18px" alt="hi">
 A passionate self-taught full stack developer
-<img align="right" alt="GIF" src="code.gif" width="300" height="120" />
+<img align="right" alt="GIF" src="code.gif" width="400" height="280" />
 - 🔭 I’m currently working as a MERN Stack Developer.
 - 👯 I’m looking to collaborate with other developers
 - ⚡ 2022 Goals: Blockchain and Web3.
