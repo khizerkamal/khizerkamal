@@ -1,7 +1,7 @@
 ### Hi, I'm Khizer Kamal
 A passionate self-taught full stack developer
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
-- 🔭 I’m currently working as an Associate Software Engineer at Kodexo Labs.
+- 🔭 I’m currently working as SDE-I at Kodexo Labs.
 - 👯 I’m looking to collaborate with other developers
 - ⚡ 2024 Goals: To get better in problem solving and deep dive Full Stack Development.
 - 💬 ask me about anything, i am happy to help
